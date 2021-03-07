@@ -16,3 +16,10 @@ You can play the game at: https://githubschool.github.io/github-games/
 >> _*SUPPORTED BROWSERS*: Chrome, Firefox, Safari, Opera and IE9+_
 
 This fun open source game was cloned from: https://github.com/jakesgordon/javascript-tetris
+
+ echo "# github-games" >> README.md
+git init
+git commit -m "first commit"
+git branch -M main
+git remote add origin https://github.com/1apz/game-instructions.git
+git push -u origin main
